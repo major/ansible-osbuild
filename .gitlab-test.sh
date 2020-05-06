@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "I am the gitlab test!"
+echo "I am really the gitlab test!"
